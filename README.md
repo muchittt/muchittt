@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muchittt&label=Profile%20views&color=0e75b6&style=flat" alt="muchittt" /> </p>
 
-- 🤝 I’m looking for help with [https://rahuldkjain.github.io/gh-profile-readme-generator/](https://rahuldkjain.github.io/gh-profile-readme-generator/)
-
 - 📫 How to reach me **abdulmukhit11@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
@@ -20,3 +18,5 @@
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muchittt&show_icons=true&locale=en&layout=compact" alt="muchittt" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchittt&show_icons=true&locale=en" alt="muchittt" /></p>
+
+- Design by <a href="https://github.com/rahuldkjain">@rahuldkjain = </a><a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">rahuldkjain</a>
