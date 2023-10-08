@@ -19,4 +19,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muchittt&show_icons=true&locale=en" alt="muchittt" /></p>
 
-- Design by <a href="https://github.com/rahuldkjain">@rahuldkjain</a> = <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">rahuldkjain</a>
+- Design by <a href="https://github.com/rahuldkjain">@rahuldkjain</a> <!-- = <a href="https://rahuldkjain.github.io/gh-profile-readme-generator/">rahuldkjain</a> -->
